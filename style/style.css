@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.botonCirculo{
+    background-color: #27a2cb;
+    color: transparent;
+    border: none;
+    cursor: pointer;
+    border-radius: 100%;
+
+}
+
+.botonCirculoActivo{
+
+    background-color: #a3b2b7;
+
+}
